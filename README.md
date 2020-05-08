@@ -1,2 +1,2 @@
 # rootexamples
-ROOT examplesfor SAP summer Student
+ROOT examples for SAP summer Student provided by Chris Jillings.
